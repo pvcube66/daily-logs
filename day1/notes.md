@@ -151,3 +151,101 @@ remember NOTE: var is a functional scope.
 
 closure: a function bundled together with its lexical environment 
 function+lexical environment = closure 
+
+day2: jesus christ how long did i take to come here. 
+
+Closures: 
+function+ lexical scope is called as closure . (wtf do i mean)
+eg:
+this is a function returning another function (crazy stuff)
+function nigga(){
+  const k="thala"
+  function meowmeow(){
+  console.log(k);
+  }
+  return mewomeow;
+}
+
+const mf=nigga();
+console.log(mf) 
+dis is the output
+//f meowmeow(){
+  console.log(k);
+  }
+  
+now see carefully . the variable k is inside the function nigga. and meowmeow can access it because of the parents lexical environemtn 
+but what if 
+
+mf()  //thala
+//we are calling mf here it consists of mewomeow function. it tries to find k, will it? 
+guess what it fuckn does. coz the function meowmeow remembers its parents lexical environment where the original k is there
+hence it can get the value . this my friend is called as "closures" 
+
+and not jus this. it remembers scope of even its grand parents (wtf do i mean)
+
+
+function modiji(){
+  const pappu="rahul"
+  function nigga(){
+  const k="thala"
+  function meowmeow(){
+  console.log(k,pappu); 
+  }
+  return mewomeow;
+}
+
+const mf=nigga();
+console.log(mf) 
+dis is the output
+//f meowmeow(){
+  console.log(k);
+  }
+
+}
+
+//this meow meow still remember the lexical scope of the nigga as well as modiji(grandparent)
+
+
+function test(){
+    for(var i=1;i<=5;i++){
+        setTimeout(()=>{
+            console.log(i);
+        },i*1000)
+    }
+}
+test();
+
+tihs prints 666666
+but why its coz   
+i think is it because. first loop runs. i=1, setimout goes to event loop. waits for 1 second, but 5 setimes go there. and by the end of 1second. the loop is ended. so i=6. thats when these setimout trigger nd print 6. is it right
+if we use let it becomes block scoped. so for each loop/iteration it creates a new unique i. it will print 1,2,3,4,5,`
+
+
+
+function statement: also known as function declaration 
+simple. 
+functin moewmeow(){console.log("hi")
+
+}
+
+function expression:
+var k= a(){
+console.log("bye")
+}
+
+there is diff in them when coming to hoisting
+
+eg:
+mewowmeow();
+k();
+
+prints->hi but gives error k is not a funciton coz of the exectuion contenxt mf.
+its like. before code is run it cretes memory
+
+sees, function so. allocates full funciton to meowmeow . see var for k. assings undefiend. and we cannto call undefined 
+
+
+first class function: the functions which are treated as a variable, passed as parameter to another function or funcs which return functions
+higher order funcs: funcs which take other fncs as parameter or return a function
+
+skipping the architectural vids coz i know im gonna forget them anyway
