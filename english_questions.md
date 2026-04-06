@@ -2,19 +2,19 @@
 
 ## Batch 1: Questions 1 to 100
 
-**Question 1:** The professor's lectures are always ______ then those of his colleagues.
+**Question 1:** The professor's lectures are always ______ than those of his colleagues.
 - A) More engaging
 - B) The most engaging
 - C) Engaging
 
 **Question 2:** Arrange the jumbled sentences in the correct logical order:
 - A) She decided to move to Delhi to her father's place in search of work with only ₹500 in her pocket.
-- B) Born in a small village of Daulatpur in UP Krishna Yadav never attended school.
-- C) They tried to start a vehicle trading business but incurred huge losses it became increasingly difficult for us to survive.
-- D) After her marriage she moved to Bulandshahr where she faced a dire situation when her husband lost his job as a traffic police officer.
+- B) Born in a small village of Daulatpur in UP, Krishna Yadav never attended school.
+- C) They tried to start a vehicle trading business but incurred huge losses; it became increasingly difficult for them to survive.
+- D) After her marriage, she moved to Bulandshahr where she faced a dire situation when her husband lost his job as a traffic police officer.
 > **Options:** A) B-A-D-C | B) B-D-C-A | C) A-B-C-D | D) D-C-B-A
 
-**Question 3:** Select the correct one-word substitution: In the new marketing campaigns the innovative product was the ______ that was so beautiful that it attracted a lot of attention.
+**Question 3:** Select the correct one-word substitution: In the new marketing campaigns, the innovative product was the ______ that was so beautiful that it attracted a lot of attention.
 - A) Contentious
 - B) Cynosure
 - C) Exotic
@@ -26,14 +26,14 @@
 - C) To lie
 - D) To keep a secret
 
-**Question 5:** Select the correct meaning for the idiom: "While working on the project the team had their backs to the wall."
+**Question 5:** Select the correct meaning for the idiom: "While working on the project, the team had their backs to the wall."
 - A) Was cut off from the society
 - B) Had a very serious deadline
 - C) Was met with a lot of opposition
 - D) Had very serious problems
 
 ### Reading Comprehension (Questions 6 to 10)
-> The UK is one of the rich world's richest countries but people are finding it increasingly difficult to pay energy bills. Electricity and gas bills could rise four-fold by winter. Even people on good salaries are feeling the pinch. Low-paid workers and those who have retired may soon be faced with the stark choice of heating or eating. Local governments have devised makeshift solutions. They are converting communal areas like libraries into spaces where people can go to stay warm for free. These are called heat banks. Money saving expert Martin Lewis said he is dumbfounded by the idea of warm banks in a supposedly wealthy country. The UK already has hundreds of food banks for those who struggle to afford to eat. Britons are already taking drastic measures to avoid skyrocketing energy costs. One woman has disconnected her refrigerator and is storing perishable goods in cold water. A man has turned off his electric kettle and is drinking water instead of hot coffee. Last winter an old lady used her free bus pass to sit on a warm bus all day instead of sitting at home in the cold. Many people are furious at the government and fossil fuel companies. Joint oil companies are making record profits. The government is reluctant to implement a one-off windfall tax. The US National Energy Action Group said that each year around 11,400 deaths are caused by cold weather. They predict this figure will rise this year.
+> The UK is one of the world's richest countries but people are finding it increasingly difficult to pay energy bills. Electricity and gas bills could rise four-fold by winter. Even people on good salaries are feeling the pinch. Low-paid workers and those who have retired may soon be faced with the stark choice of heating or eating. Local governments have devised makeshift solutions. They are converting communal areas like libraries into spaces where people can go to stay warm for free. These are called warm banks. Money-saving expert Martin Lewis said he is dumbfounded by the idea of warm banks in a supposedly wealthy country. The UK already has hundreds of food banks for those who struggle to afford to eat. Britons are already taking drastic measures to avoid skyrocketing energy costs. One woman has disconnected her refrigerator and is storing perishable goods in a cold water bath. A man has turned off his electric kettle and is drinking water instead of hot coffee. Last winter an old lady used her free bus pass to sit on a warm bus all day instead of sitting at home in the cold. Many people are furious at the government and fossil fuel companies. Oil companies are making record profits. The government is reluctant to implement a one-off windfall tax. The US National Energy Action Group said that each year around 11,400 deaths are caused by cold weather. They predict this figure will rise this year.
 
 **Question 6:** What is the meaning of the word 'Dumbfounded'?
 - A) Indifferent
@@ -50,7 +50,7 @@
 **Question 8:** What solution have local governments in UK devised to help people stay warm?
 - A) Offering free electric heaters
 - B) Providing subsidies for energy bills
-- C) Converting communal areas into heat banks
+- C) Converting communal areas into warm banks
 - D) Distributing free blankets
 
 **Question 9:** What does the National Energy Action Group predict will happen this year due to the energy crisis?
@@ -70,7 +70,7 @@
 - B) Brightest, Complex, Experienced
 - C) Loudest, Easy, Male
 
-**Question 12:** ______ Philippines is an archipelago comprising over 7000 islands.
+**Question 12:** ______ Philippines is an archipelago comprising over 7,000 islands.
 - A) A
 - B) An
 - C) The
@@ -82,7 +82,7 @@
 - C) Occasion
 - D) Licencing
 
-**Question 14:** Out of all the teachers Mrs. Sampath is ______ by the students.
+**Question 14:** Out of all the teachers, Mrs. Sampath is ______ by the students.
 - A) Admirable
 - B) Admired
 - C) Most admired
@@ -96,8 +96,8 @@
 **Question 16:** Arrange the jumbled sentences in the correct logical order:
 - A) It is expected the installation described by Mr. Furman as a swirling exciting colorful piece of art will be seen by 2.1 million people who go past the wall each year.
 - B) "It's next to the actual bridge over the river Thames and I was really inspired by the history of the site," he said.
-- C) The 57 meter artwork outside London which has been completed.
-- D) A new mosaic near London bridge made from 250,000 small glass pieces by hand celebrates the diversity of the local area its designer says.
+- C) The 57-meter artwork outside London has been completed.
+- D) A new mosaic near London Bridge, made from 250,000 small glass pieces by hand, celebrates the diversity of the local area, its designer says.
 > **Options:** A) D-C-A-B | B) A-B-C-D | C) B-C-A-D | D) C-D-A-B
 
 **Question 17:** Select the most appropriate antonym for "Cordial":
@@ -109,7 +109,7 @@
 **Question 18:** Arrange the jumbled sentences in the correct logical order:
 - A) The jewels were kept in a library in Dublin castle from where they were stolen in 1907.
 - B) The crown jewels of Ireland were created in 1783.
-- C) The jewels also held rubies from a Mughal emperor and possibly precious stones provided by a Sultan of Turkey.
+- C) The jewels also held rubies from a Mughal emperor, and possibly precious stones provided by a Sultan of Turkey.
 - D) The jewelry was made from 394 stones taken from Queen Charlotte's jewelry and an Order of the Bath badge.
 > **Options:** A) A-B-C-D | B) B-D-C-A | C) B-C-D-A | D) A-D-C-B
 
@@ -137,13 +137,13 @@
 - C) Nebulous
 - D) Murky
 
-**Question 23:** The night was silent except ______ occasional passing of a car on the road.
+**Question 23:** The night was silent except for ______ occasional passing of a car on the road.
 - A) About
 - B) For
 - C) From
 - D) With
 
-**Question 24:** On March 18 1990 two thieves ______ as police officers broke into the Isabella Stewart Gardner Museum in Boston and ______ 13 works of art.
+**Question 24:** On March 18, 1990, two thieves ______ as police officers broke into the Isabella Stewart Gardner Museum in Boston and ______ 13 works of art.
 - A) Dress, Steal
 - B) Dressed, Stole
 - C) Dressing, Stealing
@@ -154,7 +154,7 @@
 - C) Appropriate
 - D) Subdue
 
-**Question 26:** Solomon was ______ then all the other kings.
+**Question 26:** Solomon was ______ than all the other kings.
 - A) Wise
 - B) Wiser
 - C) Wisest
@@ -169,7 +169,7 @@
 - A) Stresses
 - B) Formalizing
 - C) Creative
-- D) Potenital (Potential)
+- D) Potenital
 
 **Question 29:** They are buying all new furniture as they ______ to a new house.
 - A) Have shifted
@@ -190,18 +190,18 @@
 - D) Had left
 
 **Question 32:** Identify the spelling error in the sentence: "Long sumers and water scarcity made everything difficult consequently peace was disturbed."
-- A) Sumers (Summers)
+- A) Sumers
 - B) Scarcity
 - C) Consequently
 - D) Peace
 
-**Question 33:** Leave it to me I ______ care of everything.
+**Question 33:** Leave it to me, I ______ care of everything.
 - A) Will have taken
 - B) Take
 - C) Will take
 - D) Will be taken
 
-**Question 34:** A news report indicated that Steiner was ______ charge with fraud but was later ______.
+**Question 34:** A news report indicated that Steiner was ______ charged with fraud but was later ______.
 - A) Arrested, Acquitted
 - B) Excused, Convicted
 - C) Condemned, Prison
@@ -217,7 +217,7 @@
 - A) In the middle of difficulty lies opportunity
 - B) The early bird catches the worm
 
-**Question 37:** Art collectors are searching for ______ unique...
+**Question 37:** Art collectors are searching for ______ unique piece of art.
 - A) A
 - B) An
 - C) The
@@ -227,7 +227,7 @@
 - A) Drizzle
 - B) Teaspoon
 - C) Syrup
-- D) Enticcing (Enticing)
+- D) Enticcing
 
 **Question 39:** Find the odd one out based on Voice:
 - A) The girls enjoyed playing in the park
@@ -241,7 +241,7 @@
 - C) Static
 - D) Active
 
-**Question 41:** The book is ______ interesting then the last one I read.
+**Question 41:** The book is ______ interesting than the last one I read.
 - A) Little
 - B) Most
 - C) Least
@@ -260,26 +260,26 @@
 - D) Reveal
 
 **Question 44:** Arrange the jumbled sentences in the correct logical order:
-- A) The MoD is responsible for coordinating and supervising all agencies and functions related to national security and armed forces.
+- A) The MoD is responsible for coordinating and supervising all agencies and functions related to national security and the armed forces.
 - B) The armed forces are primary components of this system.
 - C) In India, this system is overseen by the Ministry of Defense with the President as Supreme Commander of the Armed Forces.
 - D) A National Defense System encompasses the structure, policies, and resources that a nation uses to protect its sovereignty, territorial integrity, and national interests from external threats.
 > **Options:** A) D-C-A-B | B) A-B-C-D | C) D-C-B-A | D) B-A-D-C
 
 **Question 45:** Arrange the jumbled sentences in the correct logical order:
-- A) This steady flow with its oxygen, fuel, hormones, other compounds, and a host of essential cells.
+- A) This steady flow carries oxygen, fuel, hormones, other compounds, and a host of essential cells.
 - B) The heart beats about 100,000 times a day...
 - C) When the heart stops, life ends.
 - D) It also whisks away the waste products of metabolism.
 > **Options:** A) A-B-C-D | B) B-A-D-C | C) B-D-A-C | D) C-A-B-D
 
-**Question 46:** Substitute the underlined phrase with the correct idiom: "Starting a business during an economic crisis is like an engaging and a risky or dangerous activity often with unpredictable consequences."
+**Question 46:** Substitute the underlined phrase with the correct idiom: "Starting a business during an economic crisis is like engaging in a risky or dangerous activity often with unpredictable consequences."
 - A) Putting off till doomsday
 - B) Putting the cart before the horse
 - C) Putting a spoke in someone's wheel
 - D) Pulling the devil by the tail
 
-**Question 47:** Select the correct one-word substitution for: "A team member who wants equal credit and refuses advantage of her leadership role."
+**Question 47:** Select the correct one-word substitution for: "A team member who wants equal credit and refuses to take advantage of her leadership role."
 - A) Bureaucrat
 - B) Maverick
 - C) Egalitarian
@@ -372,7 +372,7 @@
 - D) Dangerous
 
 **Question 62:** Select the synonym of "Disseminating":
-- A) Break down / Spread
+- A) Spread
 - B) Contain
 - C) Hide
 - D) Hold
@@ -472,7 +472,7 @@
 - C) Current
 - D) New
 
-**Question 78:** Stories range... about ______ endurance feats by camel.
+**Question 78:** Stories range from tales of ancient trade routes to accounts of ______ endurance feats by camels.
 - A) Total
 - B) Popular
 - C) Little
@@ -491,7 +491,7 @@
 - D) Yet the notion that science can provide a final answer to all of life's questions is a misguided one.
 > **Options:** A) C-D-A-B | B) A-B-C-D | C) B-C-D-A | D) D-C-A-B
 
-**Question 81:** One of nature's masterpieces equipped to ______ desert life is a hardy camel.
+**Question 81:** One of nature's masterpieces, equipped to ______ desert life, is the hardy camel.
 - A) Attain
 - B) Cope with
 - C) Resist
@@ -534,7 +534,7 @@
 - A) Prudent
 - B) Stingy
 - C) Judicious
-- D) Extravagant (Spendthrift)
+- D) Extravagant
 
 **Question 88:** Select the synonym of "Sultry":
 - A) Humid
@@ -554,10 +554,10 @@
 - C) Plays
 - D) Has been playing
 
-**Question 91:** Identify the spelling error in the sentence: "The education minister called for collaborative efforts by different countries to address a common challenges."
+**Question 91:** Identify the spelling error in the sentence: "The education minister called for collaborative efforts by different countries to address a common challenge."
 - A) Education
 - B) Collaborative
-- C) Challenges (Challengezes)
+- C) Challenges
 - D) Address
 
 **Question 92:** Select the meaning of the idiom: "Nutty as a fruitcake".
@@ -567,7 +567,7 @@
 - D) Crazy
 
 **Question 93:** Arrange the jumbled sentences in the correct logical order:
-- A) There have been many attempts over the centuries to find this hidden library but so far the researchers have come up empty handed.
+- A) There have been many attempts over the centuries to find this hidden library but so far the researchers have come up empty-handed.
 - B) The library of Moscow supposedly contained a vast collection of ancient Greek texts.
 - C) It is said that Ivan IV, better known as Ivan the Terrible, somehow hid the library's texts.
 - D) The rulers of the Grand Duchy of Moscow supposedly had built the library in 1580.
@@ -597,7 +597,7 @@
 - C) Misapprehend
 - D) Miserable
 
-**Question 98:** How and when the yellow 137 carat Florentine diamond ______ to Europe is a ______ of debate.
+**Question 98:** How and when the yellow 137-carat Florentine diamond ______ to Europe is a ______ of debate.
 - A) Arrived, Thing
 - B) Reached, Material
 - C) Land, Object
@@ -643,7 +643,7 @@
 
 ## Batch 2: Questions 101 to 200
 
-**Question 101:** She ______ at Aurobindo college for the last seven years.
+**Question 101:** She ______ at Aurobindo College for the last seven years.
 - A) Taught
 - B) Had taught
 - C) Teaches
@@ -697,7 +697,7 @@
 - C) Make up to
 - D) Make it on
 
-**Question 110:** Which conjunction can be used for this sentence: ______ it is raining in Delhi, Gurugram has clear sky.
+**Question 110:** Which conjunction can be used for this sentence: ______ it is raining in Delhi, Gurugram has clear skies.
 - A) Until
 - B) Because
 - C) After
@@ -719,7 +719,7 @@
 - A) Reliable
 - B) Affable
 - C) Amicable
-- D) Guilible (Gullible)
+- D) Gullible
 
 **Question 114:** The idea of landing ______ the moon was considered absurd 100 years ago.
 - A) On
@@ -748,26 +748,26 @@
 **Question 118:** Select the misspelt word.
 - A) Eternal
 - B) Natural
-- C) Karnel (Kernel)
+- C) Kernel
 - D) Serial
 
 **Question 119:** Select the synonym of "Contempt".
 - A) Esteem
 - B) Detachment
 - C) Skepticism
-- D) Deep disrespect
+- D) Contempt
 
 **Question 120:** Identify the incorrectly spelt word.
 - A) Gaunt
 - B) Stunted
-- C) Vantilation (Ventilation)
+- C) Ventilation
 - D) Movement
 
 **Question 121:** Identify the spelling error in the sentence: "She leaned her pretty head back against a sail with a half yorn."
 - A) Leaned
 - B) Pretty
 - C) Against
-- D) Yorn (Yawn)
+- D) Yawn
 
 **Question 122:** Select the one-word substitution: "Lost all hope and interest and what was happening around her."
 - A) Vacated
@@ -793,7 +793,7 @@
 - C) Mediocre
 - D) Profound
 
-**Question 126:** Select the antonym of the highlighted word "Incendiary" (meaning: causing conflict).
+**Question 126:** Select the antonym of the highlighted word "Incendiary".
 - A) Assertive
 - B) Insightful
 - C) Conciliatory
@@ -818,7 +818,7 @@
 - C) Face the music
 - D) Put a sock in it
 
-**Question 130:** Select the antonym of the word "Facet" (meaning one aspect or part).
+**Question 130:** Select the antonym of the word "Facet".
 - A) Sentiment
 - B) Vital
 - C) Defiance
@@ -852,7 +852,7 @@
 - C) Attempt to attract someone's attention
 - D) Desire to escape physical confinement
 
-**Question 135:** Select the antonym of "Vehemently" (intensely/forcefully).
+**Question 135:** Select the antonym of "Vehemently".
 - A) Miserable
 - B) Despondently
 - C) Melancholy
@@ -882,7 +882,7 @@
 - A) An object of popularity
 - B) An unlucky possession
 - C) A lucky charm
-- D) Waste of money / completely useless
+- D) A useless and costly possession
 
 **Question 140:** Select the antonym of "Meticulous".
 - A) Precise
@@ -901,7 +901,7 @@
 **Question 142:** Idiom: Garima's political views were "against the grain".
 - A) Courageous and bold
 - B) Most interesting
-- C) Contrary to her feelings/natural tendency
+- C) Contrary to one's natural inclination
 - D) Normal
 
 **Question 143:** Article: Of all the string instruments, ______ violin is known for its versatility.
@@ -911,7 +911,7 @@
 - D) No article
 
 **Question 144:** Identify the spelling error in the sentence: "I know a playwrite who has the privilege to meet the monarch in solitude."
-- A) Playwrite (Playwright)
+- A) Playwright
 - B) Privilege
 - C) Monarch
 - D) Solitude
@@ -935,7 +935,7 @@
 - A) Neglect
 - B) Abandon
 - C) Consider
-- D) Restore / Bring back
+- D) Restore
 
 **Question 148:** What was the primary economic activity in Ozu during its time as capital?
 - A) Fishing
@@ -1015,13 +1015,13 @@
 - C) From
 - D) With
 
-**Question 161:** Solomon was ______ then all the other Jewish kings.
+**Question 161:** Solomon was ______ than all the other Jewish kings.
 - A) Wise
 - B) Wiser
 - C) Wisest
 - D) More Wiser
 
-**Question 162:** A news report indicated that Sohan was ______ charge with fraud but was later ______.
+**Question 162:** A news report indicated that Sohan was ______ charged with fraud but was later ______.
 - A) Arrested, Acquitted
 - B) Excused, Convicted
 - C) Condemned, Prison
@@ -1033,7 +1033,7 @@
 - C) Tired labourer
 - D) Clever mason
 
-**Question 164:** Leave it to me I ______ care of everything.
+**Question 164:** Leave it to me, I ______ care of everything.
 - A) Will have taken
 - B) Take
 - C) Will take
@@ -1043,10 +1043,10 @@
 - A) Stresses
 - B) Formalizing
 - C) Creative
-- D) Potenital (Potential)
+- D) Potenital
 
 **Question 166:** Identify the spelling error in the sentence: "Long sumers and water scarcity made everything difficult..."
-- A) Sumers (Summers)
+- A) Sumers
 - B) Scarcity
 - C) Consequently
 - D) Peace
@@ -1058,7 +1058,7 @@
 - D) The jewelry was made from 394 stones...
 > **Options:** A) A-B-C-D | B) B-D-C-A | C) B-C-D-A | D) A-D-C-B
 
-**Question 168:** On March 18 1990 two thieves ______ as police officers broke into the Isabella Stewart Gardner Museum and ______ 13 works of art.
+**Question 168:** On March 18, 1990, two thieves ______ as police officers broke into the Isabella Stewart Gardner Museum, and ______ 13 works of art.
 - A) Dress, Steal
 - B) Dressed, Stole
 - C) Dressing, Stealing
@@ -1074,7 +1074,7 @@
 - A) Mischief
 - B) Friend
 - C) Vein
-- D) Sleigh (spelt incorrectly in test options)
+- D) Sleigh
 
 **Question 171:** Select the synonym of "Despise".
 - A) Cherish
@@ -1102,15 +1102,15 @@
 
 **Question 175:** Which part of the sentence contains an error: "I did not want India to loose the match that day."
 - A) I did not want
-- B) India to loose (should be lose)
+- B) India to lose
 - C) the match
 - D) that day
 
 **Question 176:** Which part of the sentence contains an error: "Each and every person attending the meeting want to give a feedback."
 - A) Each and every person
 - B) attending the meeting
-- C) want to give (should be wants)
-- D) a feedback
+- C) wants to give
+- D) feedback
 
 **Question 177:** Choose appropriate words: Very soon I am going to run ______ money.
 - A) Short to
@@ -1152,7 +1152,7 @@
 - A) Calendar
 - B) Decorator
 - C) Mentor
-- D) Janitor (spelt incorrectly in test options)
+- D) Janitor
 
 **Question 184:** Messages are passed ______ the brain and the rest of the body.
 - A) Among
@@ -1216,7 +1216,7 @@
 - D) No article
 
 ### Reading Comprehension (Questions 194 to 197)
-> With its stark white head, dangerous talons, and a wingspan of more than 6.5 feet, the bald eagle cuts a silhouette few other birds in North America can compete with. And yet much of what we think we know about this raptor is wrong. The bald eagle is not actually the national bird of the US. No president nor congress has ever officially declared the animal as a national bird. Conversely, the bison was designated the national mammal in 2016. There is a bipartisan effort to make the bald eagle's status official. If you have ever seen a bald eagle on television, there is a good chance you have heard its screech. However, what you are hearing is a lie. That's the call of a red-tailed hawk. In reality, bald eagles cry kind of sounds like a giggle.
+> With its stark white head, dangerous talons, and a wingspan of more than 6.5 feet, the bald eagle cuts a silhouette few other birds in North America can compete with. And yet, much of what we think we know about this raptor is wrong. The bald eagle is not actually the national bird of the US. No president nor Congress has ever officially declared the animal as a national bird. Conversely, the bison was designated the national mammal in 2016. There is a bipartisan effort to make the bald eagle's status official. If you have ever seen a bald eagle on television, there is a good chance you have heard its screech. However, what you are hearing is a lie. That's the call of a red-tailed hawk. In reality, bald eagles make a sound that kind of sounds like a giggle.
 
 **Question 194:** Which statement is true about the bald eagle according to the passage?
 - A) It has a wing span of more than 6.5 ft
@@ -1242,7 +1242,7 @@
 - C) Red-tailed hawk sounds
 - D) Bipartisan efforts
 
-**Question 198:** Select the antonym of "Desiccate" (to dry out).
+**Question 198:** Select the antonym of "Desiccate".
 - A) Illuminate
 - B) Flourish
 - C) Wither
@@ -1252,14 +1252,14 @@
 - A) There will be a substantial number of instances of violence that go unreported.
 - B) More than 1 million such crimes have been reported in one year.
 - C) This may be the tip of the iceberg.
-- D) Police in UK have released a report highlighting a serious surge in violence against women.
+- D) Police in the UK have released a report highlighting a serious surge in violence against women.
 > **Options:** A) D-B-C-A | B) A-B-C-D | C) D-C-A-B | D) C-D-B-A
 
-**Question 200:** Select the antonym of "Sedulous" (hardworking/diligent).
+**Question 200:** Select the antonym of "Sedulous".
 - A) Exclusive
 - B) Bustling
 - C) Quiescent
-- D) Lazy (Not hardworking)
+- D) Lazy
 
 ### Answer Key (Batch 2 - Questions 101 to 200)
 | Q | Ans | Q | Ans | Q | Ans | Q | Ans | Q | Ans |
@@ -1396,7 +1396,7 @@
 - C) Promote
 - D) Oppose
 
-**Question 218:** Fill in the blank (Preposition): "The dog easily jumps over the wall that separates their compound ______ ours."
+**Question 218:** Fill in the blank: "The dog easily jumps over the wall that separates their compound ______ ours."
 - A) About
 - B) For
 - C) From
@@ -1415,7 +1415,7 @@
 - D) Has been teaching
 
 **Question 221:** Arrange the jumbled sentences:
-- A) There have been many attempts over the centuries to find this hidden library but so far the researchers have come up empty handed.
+- A) There have been many attempts over the centuries to find this hidden library but so far the researchers have come up empty-handed.
 - B) The library of Moscow supposedly contained a vast collection of ancient Greek texts as well as texts written in a variety of other languages.
 - C) It is said that Ivan IV, better known as Ivan the Terrible, somehow hid the library's texts.
 - D) The rulers of the Grand Duchy of Moscow supposedly had built the library in 1580.
@@ -1449,7 +1449,7 @@
 - A) Stingy
 - B) Judicious
 - C) Prudent
-- D) Extravagant (Spendthrift)
+- D) Extravagant
 
 **Question 227:** Select the correct spelling:
 - A) Hystiria
@@ -1484,7 +1484,7 @@
 **Question 232:** Identify the error in the sentence: "The education minister called for collaborative efforts by different countries to address common challenges."
 - A) Education minister
 - B) Called for
-- C) By different countries (should be 'between' or 'among')
+- C) By different countries
 - D) Address common challenges
 
 **Question 233:** Select the synonym of "Sultry".
@@ -1500,7 +1500,7 @@
 - D) Nine lives
 
 **Question 235:** Which part of the sentence contains an error: "Who's name did you write in your diary that day"
-- A) Who's name (Should be Whose)
+- A) Who's name
 - B) did you write
 - C) in your diary
 - D) that day
@@ -1539,7 +1539,7 @@
 - A) Acknowledge
 - B) Acquaint
 - C) Acquire
-- D) Acquarium (Should be Aquarium)
+- D) Acquarium
 
 **Question 242:** Choose the grammatically correct arrangement of the jumbled words:
 - A) Bring me that pot soup of hot.
@@ -1575,7 +1575,7 @@
 - A) It is only
 - B) 10 minutes
 - C) past 10
-- D) in my watch (Should be 'on' my watch)
+- D) in my watch
 
 **Question 248:** Select the synonym of "Endure".
 - A) Hide
@@ -1587,7 +1587,7 @@
 - A) Rebound
 - B) Shearing
 - C) Astounding
-- D) Fearfull (Should be Fearful)
+- D) Fearfull
 
 **Question 250:** Choose the appropriate option to fill in the phrase: "My performance in my 12th board exams was a let ______ for my parents."
 - A) Off
@@ -1609,7 +1609,7 @@
 
 **Question 253:** Identify the spelling error in the sentence: "The organization is committed to presering the environment through sustainable practices."
 - A) Organization
-- B) Presering (Should be preserving)
+- B) Preserving
 - C) Sustainable
 - D) Practices
 
@@ -1692,7 +1692,7 @@
 - C) Continuous
 - D) Disrupted
 
-**Question 266:** Select the antonym of "Intractable" (meaning stubborn).
+**Question 266:** Select the antonym of "Intractable".
 - A) Exacerbated
 - B) Committed
 - C) Ornery
@@ -2043,7 +2043,7 @@
 - A) Access
 - B) Equity
 - C) Affordability
-- D) Principals (Should be Principles)
+- D) Principals
 
 **Question 317:** Complete the proverb: "A Jack of all trades and ______".
 - A) Master of all
@@ -2085,12 +2085,12 @@
 - A) Permanent
 - B) Adamant
 - C) Restaurant
-- D) Jubiliant (Should be Jubilant)
+- D) Jubiliant
 
 **Question 324:** Which part of the sentence contains an error: "I was walking down the road when all of the sudden it started raining cats and dogs."
 - A) I was walking down
 - B) the road when
-- C) all of the sudden (Should be "all of a sudden")
+- C) all of the sudden
 - D) it started raining
 
 **Question 325:** Choose the word which can be used in place of the underlined words: "She hates eating meat and all her friends are eaters of meat and chicken."
@@ -2173,7 +2173,7 @@
 - C) The
 - D) No article
 
-**Question 338:** Select the antonym of "Germane" (relevant).
+**Question 338:** Select the antonym of "Germane".
 - A) Instrumental
 - B) Pertinent
 - C) Incidental / Irrelevant
